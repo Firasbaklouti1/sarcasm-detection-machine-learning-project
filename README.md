@@ -1,6 +1,7 @@
 # 🧠 iSarcasmEval_En_Project
 
-Projet de détection du sarcasme en anglais à partir du dataset **iSarcasmEval_En**  
+Le but de ce projet est de détecter automatiquement si un texte (tweet en anglais) est 
+sarcastique ou non, en utilisant des techniques de Machine Learning (ML). 
 👉 [Lien du dataset officiel](https://github.com/iabufarha/iSarcasmEval)
 
 ## 👥 Auteurs
@@ -9,13 +10,15 @@ Projet de détection du sarcasme en anglais à partir du dataset **iSarcasmEval_
 
 ## 🚀 Étapes principales
 1. **Exploration et Analyse des Données (EAD)**
-2. **Prétraitement et Visualisation**
-3. **Application de 5 algorithmes ML**
-4. **Comparaison et sélection du meilleur modèle**
+2. **Prétraitement**
+3. ***Vectorisation et Modélisation***
+4. ***Évaluation et comparaison***
+5. ***Conclusion***
+
 
 ## 💡 Livrables
-- `iSarcasmEval_Final.ipynb` (Notebook complet)
-- `iSarcasmEval_Final.html` (Version HTML)
+- `Sarcasm_Eval.ipynb` (Notebook complet)
+- `Sarcasm_Eval.html` (Version HTML)
 
 ## 🧰 Technologies
 - Python 3.10+
